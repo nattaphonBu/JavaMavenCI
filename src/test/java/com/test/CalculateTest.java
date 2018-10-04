@@ -8,6 +8,7 @@ import org.junit.Test;
 
 import com.main.Calculate;
 
+
 public class CalculateTest {
 	public int score;
 	public Calculate cal;
