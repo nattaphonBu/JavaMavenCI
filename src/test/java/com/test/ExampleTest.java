@@ -15,6 +15,7 @@ public class ExampleTest {
 		String expecteds = "A";
 		// actual
 		String actuals = "A";
+		
 		// test
 		Assert.assertEquals(expecteds, actuals);
 	}
