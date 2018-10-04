@@ -190,6 +190,7 @@ public class CalculateTest {
 		Assert.assertEquals(expecteds, actuals);
 		
 	}
+	
 	@Test
 	public void getGradeFFormSetScoreAndCalculateByScore49() {
 		this.score = 49;
