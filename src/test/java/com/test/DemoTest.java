@@ -10,6 +10,7 @@ import org.junit.Test;
 
 public class DemoTest {
 
+	
 	@BeforeClass
 	public static void beforeClass() {
 		System.out.println("BeforeClass");
